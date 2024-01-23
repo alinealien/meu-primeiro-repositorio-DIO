@@ -1,2 +1,3 @@
-# meu-primeiro-repositorio-DIO
-Objetivos do repositório: Criar nosso primeiro repositório e clona-lo localmente no nosso pc.
+# Meu Primeiro Repositorio - DIO
+
+Criando nosso primeiro repositório e clonando-o localmente no nosso pc.
